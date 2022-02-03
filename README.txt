@@ -1,4 +1,4 @@
-Vigenere Cipher Encryption and Decryption Tool
+## Vigenere Cipher Encryption and Decryption Tool
 
 Rules and input needed:
 -----------------------------------------------------------------------------------------
